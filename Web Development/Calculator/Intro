@@ -1,0 +1,25 @@
+🧮 Calculator App
+A simple JavaScript-based calculator app for performing basic arithmetic operations. This project demonstrates fundamental web development skills using HTML, CSS, and JavaScript.
+
+🚀 Features
+Addition, subtraction, multiplication, and division
+Lightweight and fast
+User-friendly interface
+📂 Project Structure
+index.html – Main structure of the calculator
+styles.css – Basic styling for the UI
+calculator.js – Core JavaScript logic for calculations
+🔧 Installation
+Clone the repository:
+sh
+Copy
+Edit
+git clone https://github.com/your-username/calculator-app.git
+Open index.html in your browser.
+🎯 Usage
+Enter numbers using the on-screen buttons.
+Click operations (+, -, *, /) to perform calculations.
+Press "=" to get the result.
+Click "C" to reset.
+💡 Contributing
+Feel free to fork the repo and submit a pull request with improvements!
